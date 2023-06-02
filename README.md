@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Hidenari
 
-👀 I’m interested in Crypto and LLM
+👀 I’m interested in Crypto and AI
 
 🌱 I'm developing web systems using Next.js, Typescript.
 
