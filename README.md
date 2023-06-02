@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Hidenari
-- 👀 I’m interested in Crypto and LLM
+👋 Hi, I’m Hidenari
+👀 I’m interested in Crypto and LLM
 
+🌱 I'm developing web systems using Next.js, Typescript.
 
 <!---
 snc2work/snc2work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
