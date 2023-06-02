@@ -6,7 +6,9 @@
 
 🌱 I'm developing web systems using Next.js, Typescript.
 
-<!---
-snc2work/snc2work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 My favorite system environments include Vercel, aws (lambda + API Gateway + Cognito), Firebase Authentication, PlanetScale, Supabass.
+
+🌱 I using Thirdweb in the development of NFT.
+
+🌱 Recently I am interested in AI services using ChatGPT and other services.
+
