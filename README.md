@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snc2work
-- 👀 I’m interested in Crypto
+- 👀 I’m interested in Crypto and LLM
 
 
 <!---
