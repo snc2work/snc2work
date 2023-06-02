@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snc2work
+- 👋 Hi, I’m Hidenari
 - 👀 I’m interested in Crypto and LLM
 
 
