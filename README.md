@@ -1,4 +1,5 @@
 👋 Hi, I’m Hidenari
+
 👀 I’m interested in Crypto and LLM
 
 🌱 I'm developing web systems using Next.js, Typescript.
