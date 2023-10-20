@@ -6,7 +6,7 @@
 
 🌱 I'm developing web systems using Next.js, Typescript and FastAPI.
 
-🌱 My favorite system environments include Vercel, aws (lambda + API Gateway + Cognito), Firebase Authentication, PlanetScale, CloudRun, Supabass.
+🌱 My favorite system environments include Vercel, AWS (Lambda + API Gateway + Cognito), Firebase Authentication, PlanetScale, CloudRun, Supabass.
 
 🌱 I using Thirdweb in the development of NFT.
 
