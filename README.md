@@ -1,10 +1,10 @@
 ### Profile
 
-👋 Hi, I’m Hidenari
+👋 Hi, I’m Nari
 
 👀 I'm passionate about the potential of Cryptocurrency and Artificial Intelligence.
 
-🌱 I specialize in developing web systems using cutting-edge technologies such as Next.js, TypeScript, and FastAPI.
+🌱 I specialize in developing web systems using cutting-edge technologies such as Next.js, and FastAPI.
 
 💻 My preferred system environments include Vercel, Supabase, Firebase, and Cloud Run, which allow me to build scalable and efficient applications.
 
