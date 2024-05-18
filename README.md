@@ -1,6 +1,6 @@
 ### Profile
 
-👋 Hi, I’m Hidenari
+👋 Hi, I’m Nari
 
 👀 I’m interested in Crypto and AI
 
