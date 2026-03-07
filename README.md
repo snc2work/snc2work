@@ -1,5 +1,3 @@
 ### Profile
 
-👋 Hi, I’m Izawa
-I'm passionate about the potential of Crypto and LLM.
-
+Full-Stack Web Engineer | Building AI apps & Topos Architect of Transmissive Programming. Focused on Next.js, Python, and SwiftUI.
